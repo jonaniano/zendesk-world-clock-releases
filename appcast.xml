@@ -8,6 +8,31 @@
 
         <!-- Latest version -->
         <item>
+            <title>Version 4.27</title>
+            <description><![CDATA[
+                <h2>What's New in 4.27</h2>
+                <ul>
+                    <li>Performance optimizations</li>
+                    <li>Glass design style option</li>
+                    <li>Auto-update support via Sparkle</li>
+                    <li>Time Input Mode for meeting planning</li>
+                    <li>Resizable windows with height persistence</li>
+                    <li>19 language support</li>
+                </ul>
+            ]]></description>
+            <pubDate>Tue, 28 Jan 2026 20:15:00 +0000</pubDate>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/jonaniano/zendesk-world-clock-releases/releases/download/v4.27/Zendesk-World-Clock-4.27.dmg"
+                sparkle:version="3"
+                sparkle:shortVersionString="4.27"
+                sparkle:edSignature="mnEs7uYtfMkxD4hfHr79Am41xif9eDe2sCR9aKF4S+7hCUpxQRhU23JcuSC3ABy5BpYmFliCSpjtyLSeQvjLCg=="
+                length="3839614"
+                type="application/octet-stream" />
+        </item>
+
+        <!-- Previous version -->
+        <item>
             <title>Version 3.1</title>
             <description><![CDATA[
                 <h2>What's New in 3.1</h2>
