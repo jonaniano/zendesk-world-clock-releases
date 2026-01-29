@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Zendesk World Clock Updates</title>
+        <link>https://github.com/jonaniano/zendesk-world-clock-releases</link>
+        <description>Updates for Zendesk World Clock macOS app</description>
+        <language>en</language>
+
+        <!-- Latest version should be first -->
+        <item>
+            <title>Version 3.1</title>
+            <description><![CDATA[
+                <h2>What's New in 3.1</h2>
+                <ul>
+                    <li>Added auto-update support via Sparkle</li>
+                    <li>Time Input Mode for meeting planning across time zones</li>
+                    <li>Resizable windows with height persistence</li>
+                    <li>Performance improvements</li>
+                </ul>
+            ]]></description>
+            <pubDate>Tue, 28 Jan 2026 12:00:00 +0000</pubDate>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/jonaniano/zendesk-world-clock-releases/releases/download/v3.1/Zendesk-World-Clock-3.1.dmg"
+                sparkle:version="2"
+                sparkle:shortVersionString="3.1"
+                sparkle:edSignature="REPLACE_WITH_SIGNATURE"
+                length="REPLACE_WITH_FILE_SIZE"
+                type="application/octet-stream" />
+        </item>
+
+        <!-- Previous versions for reference -->
+        <item>
+            <title>Version 3.0</title>
+            <description><![CDATA[
+                <h2>What's New in 3.0</h2>
+                <ul>
+                    <li>Performance optimizations</li>
+                    <li>Glass design style option</li>
+                    <li>19 language support</li>
+                </ul>
+            ]]></description>
+            <pubDate>Mon, 27 Jan 2026 12:00:00 +0000</pubDate>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/jonaniano/zendesk-world-clock-releases/releases/download/v3.0/Zendesk-World-Clock-3.0.dmg"
+                sparkle:version="1"
+                sparkle:shortVersionString="3.0"
+                sparkle:edSignature="REPLACE_WITH_SIGNATURE"
+                length="REPLACE_WITH_FILE_SIZE"
+                type="application/octet-stream" />
+        </item>
+    </channel>
+</rss>
