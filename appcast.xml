@@ -8,6 +8,29 @@
 
         <!-- Latest version -->
         <item>
+            <title>Version 4.28</title>
+            <description><![CDATA[
+                <h2>What's New in 4.28</h2>
+                <ul>
+                    <li>Added resize cursor feedback on menu bar panel</li>
+                    <li>Accessibility improvements (VoiceOver support)</li>
+                    <li>Performance optimizations</li>
+                    <li>Additional unit tests</li>
+                </ul>
+            ]]></description>
+            <pubDate>Thu, 30 Jan 2026 08:30:00 +0000</pubDate>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/jonaniano/zendesk-world-clock-releases/releases/download/v4.28/Zendesk-World-Clock-4.28.dmg"
+                sparkle:version="4"
+                sparkle:shortVersionString="4.28"
+                sparkle:edSignature="W8ej//Q6s/zy3UJDRBzqGANI+JziyUw4uoyM5xuCJqs2Wab8gOAxbGtwIK3YjragAX0jtAkrRb1Lu6tmHBKpBQ=="
+                length="3781828"
+                type="application/octet-stream" />
+        </item>
+
+        <!-- Previous version -->
+        <item>
             <title>Version 4.27</title>
             <description><![CDATA[
                 <h2>What's New in 4.27</h2>
