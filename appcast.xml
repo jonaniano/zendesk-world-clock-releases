@@ -8,6 +8,28 @@
 
         <!-- Latest version -->
         <item>
+            <title>Version 4.42</title>
+            <description><![CDATA[
+                <h2>What's New in 4.42</h2>
+                <ul>
+                    <li>Global keyboard shortcut to toggle panel (⌃⌘C)</li>
+                    <li>Customizable hotkey recording in Settings</li>
+                    <li>Works system-wide without accessibility permissions</li>
+                </ul>
+            ]]></description>
+            <pubDate>Sat, 01 Feb 2026 23:04:00 +0000</pubDate>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/jonaniano/zendesk-world-clock-releases/releases/download/v4.42/Zendesk-World-Clock-4.42.dmg"
+                sparkle:version="5"
+                sparkle:shortVersionString="4.42"
+                sparkle:edSignature="5hClRhd8vYSd/AxY6wDM66yovZvp7vo04WgCrpDbkqBaxwXqIMlrq4IlDf3tYdowVNQM6TqgAuwZ2+8xnMNADQ=="
+                length="3817031"
+                type="application/octet-stream" />
+        </item>
+
+        <!-- Previous version -->
+        <item>
             <title>Version 4.28</title>
             <description><![CDATA[
                 <h2>What's New in 4.28</h2>
