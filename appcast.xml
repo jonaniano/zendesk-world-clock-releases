@@ -8,6 +8,26 @@
 
         <!-- Latest version -->
         <item>
+            <title>Version 4.43</title>
+            <description><![CDATA[
+                <h2>What's New in 4.43</h2>
+                <ul>
+                    <li>Fixed the custom cities settings empty state so the Add Custom City button is always visible.</li>
+                </ul>
+            ]]></description>
+            <pubDate>Wed, 13 May 2026 01:42:22 -0700</pubDate>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/jonaniano/zendesk-world-clock-releases/releases/download/v4.43/Zendesk-World-Clock-4.43.dmg"
+                sparkle:version="6"
+                sparkle:shortVersionString="4.43"
+                sparkle:edSignature="WpkcGTO4SVZpyug9yIsEVS58ljonoL1Ij9zys8KttXR3kO1B+6AVi5HJX3vLBWKc2nkO95qJkJoM0WyGOjp+Cw=="
+                length="3839651"
+                type="application/octet-stream" />
+        </item>
+
+        <!-- Previous version -->
+        <item>
             <title>Version 4.42</title>
             <description><![CDATA[
                 <h2>What's New in 4.42</h2>
